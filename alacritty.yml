@@ -1,0 +1,5 @@
+window:
+  startup_mode: Fullscreen
+key_bindings:
+  - { key: Right, mods: Alt, chars: "\x1BF" }
+  - { key: Left,  mods: Alt, chars: "\x1BB" }
